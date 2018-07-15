@@ -1,6 +1,6 @@
 .row{   
 
-    background-color:black;
+    background-color:#F1C3B9;
     color:white;
     font-size:20px;
 }
@@ -26,9 +26,22 @@
     
 }
 body{
- background-color:#F2D3C5;   
+ background-color:#F0B2AD;   
     }
 #rowmid{
-    background-color:#F4E4D0;    
+    background-color:#F2D3C5;    
     font-family: 'Lato', sans-serif;
+    display:flex;
+    justify-content:space-around;
     }
+.headshot{
+    border-radius: 60%
+}
+
+
+
+.me{
+    height:10px;
+    width:5px;
+}
+    
